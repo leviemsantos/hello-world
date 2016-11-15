@@ -1,3 +1,3 @@
 # hello-world
 First project
-Hi, I'm Levi Emanuel!
+Hi there, I'm Levi Emanuel!

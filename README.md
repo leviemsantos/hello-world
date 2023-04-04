@@ -1,12 +1,9 @@
 # hello-world
 
-> Liberdade onde estás? Quem te demora?
-
-> Quem faz que o teu infame influxo em nós não caia
-
-> Porque (triste de mim!), porque não raia
-
-> Já na esfera de Lísia a tua aurora?
+> Liberdade onde estás? Quem te demora?\
+> Quem faz que o teu infame influxo em nós não caia\
+> Porque (triste de mim!), porque não raia\
+> Já na esfera de Lísia a tua aurora?\
 
 > Da santa redenção é vinda hora
 > A esta parte do mundo, que desmaia.

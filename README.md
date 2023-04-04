@@ -17,3 +17,5 @@
 > Movam nossos grilhões tua piedade;\
 > Nosso nume tu és, e glória, e tudo,\
 > Mãe do gênio, e prazer, ó liberdade!
+
+>                           Bogace
